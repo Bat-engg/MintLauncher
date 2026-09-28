@@ -1,77 +1,157 @@
-README.md — MintLauncher
 🍃 MintLauncher
 
-MintLauncher est un launcher Minecraft conçu pour offrir une expérience plus fluide, personnalisable et optimisée, avec un focus particulier sur le PvP et les SMP.
+MintLauncher is a Minecraft launcher designed to provide a smoother, more customizable, and optimized gaming experience, with a strong focus on PvP and SMP.
 
-✨ Fonctionnalités
+✨ Features
 
-    ⚡ Optimisation des performances — conçu pour améliorer la fluidité et les FPS.
+⚡ Performance Optimization — designed to improve FPS and overall game smoothness.
 
-    🌐 Optimisations réseau — fonctionnalités visant à réduire la latence selon la configuration et la connexion.
+🌐 Network Optimization — features designed to help reduce latency depending on your connection and configuration.
 
-    ⚔️ Mode PvP — une expérience adaptée aux joueurs PvP.
+⚔️ PvP Mode — an experience designed specifically for PvP players.
 
-    🌲 Mode SMP — configuration pensée pour le gameplay SMP.
+🌲 SMP Mode — optimized settings for SMP gameplay.
 
-    🎨 Interface personnalisable — personnalise l'apparence de ton expérience.
+🎨 Custom Interface — personalize your Minecraft experience.
 
-    🚀 Launcher optimisé — rapide et simple à utiliser.
+🚀 Optimized Launcher — fast and easy to use.
 
-    🖥️ Compatible avec différentes configurations — les performances peuvent varier selon le PC et les paramètres utilisés.
+🖥️ Performance Focused — built to make the most of your hardware.
 
-📊 Performances
+📊 Performance
 
-MintLauncher a été testé sur différentes configurations afin d'optimiser l'expérience de jeu.
+MintLauncher has been tested on different configurations to improve the overall Minecraft experience.
 
-Dans certaines configurations, les utilisateurs peuvent observer des gains importants de FPS et une réduction de la latence.
+Depending on your hardware and configuration, you may see significant improvements in FPS and latency.
 
-    ⚠️ Les performances dépendent du matériel, des paramètres Minecraft, de la version utilisée, des mods et de la connexion Internet. Les résultats peuvent donc varier d'un utilisateur à l'autre.
+⚠️ Performance results vary depending on your PC, Minecraft settings, mods, version, and internet connection. Results are not guaranteed.
 
-📥 Téléchargement
+📥 Download
 Windows
 
-⬇️ Télécharger MintLauncher
+⬇️ Download MintLauncher
 
-Les dernières versions sont également disponibles dans la section Releases de ce dépôt.
-🎮 Modes
-⚔️ PvP
+The latest versions are also available in the Releases section of this repository.
 
-MintLauncher propose une expérience pensée pour le PvP :
+🎮 Game Modes
+⚔️ PvP Mode
 
-    Optimisations de performances
+MintLauncher provides an experience designed for competitive PvP:
 
-    Interface adaptée
+Performance optimizations
 
-    Configuration orientée PvP
+PvP-focused settings
 
-    Expérience fluide
+Customizable interface
 
-🌲 SMP
+Smooth gameplay experience
 
-Pour les joueurs SMP, MintLauncher propose également une configuration adaptée à une utilisation quotidienne de Minecraft.
-🎨 Personnalisation
+🌲 SMP Mode
 
-Personnalise ton expérience avec une interface configurable et différents paramètres permettant d'adapter le launcher à tes préférences.
+MintLauncher also includes settings designed for everyday SMP gameplay.
+
+Whether you're playing survival, building, or playing with friends, MintLauncher aims to provide a smooth experience.
+
+🎨 Customization
+
+Customize your experience with a configurable interface and different settings designed to fit your preferences.
+
 🛠️ Installation
 
-    Télécharge la dernière version de MintLauncher depuis les Releases.
+Download the latest version of MintLauncher from the Releases section.
 
-    Lance l'installateur.
+Run the installer.
 
-    Installe MintLauncher.
+Install MintLauncher.
 
-    Ouvre le launcher.
+Open the launcher.
 
-    Connecte ton compte Minecraft via l'authentification officielle.
+Sign in using the official Microsoft authentication system.
 
-    Configure tes paramètres.
+Configure your settings.
 
-    Lance Minecraft et profite de ton expérience optimisée.
+Launch Minecraft and enjoy!
 
-🔐 Sécurité
+🔐 Security
 
-MintLauncher ne te demandera jamais ton mot de passe Microsoft directement.
+MintLauncher will never ask for your Microsoft password directly.
 
-Utilise uniquement l'authentification officielle Microsoft pour connecter ton compte Minecraft.
+Use the official Microsoft authentication system to connect your Minecraft account.
 
-Si tu télécharges MintLauncher, vérifie toujours que tu utilises une version provenant
+Always make sure you download MintLauncher from one of our official sources.
+
+🐛 Bug Reports
+
+Found a bug?
+
+Open an Issue on GitHub and include:
+
+🖥️ Your operating system
+
+🎮 Your Minecraft version
+
+📦 Your MintLauncher version
+
+📝 A description of the problem
+
+📸 Screenshots or logs if available
+
+💬 Community
+
+Join our Discord to:
+
+🆕 Get the latest announcements
+
+🐛 Report bugs
+
+💡 Suggest new features
+
+💬 Talk with the community
+
+🧪 Test new versions
+
+💬 Join the Discord
+
+📸 Screenshots
+
+Add screenshots of MintLauncher here:
+
+/screenshots/launcher.png
+
+/screenshots/pvp.png
+
+/screenshots/settings.png
+
+📋 Roadmap
+
+ Working launcher
+
+ Performance optimizations
+
+ PvP Mode
+
+ SMP Mode
+
+ Custom interface
+
+ More performance optimizations
+
+ More customization options
+
+ New PvP features
+
+ Improved update system
+
+⭐ Support the Project
+
+If you like MintLauncher, you can help by:
+
+⭐ Starring the repository
+
+🐛 Reporting bugs
+
+💡 Suggesting features
+
+📢 Sharing the project with others
+
+MintLauncher — Play smoother. Play your way. 🍃
